@@ -1,0 +1,10 @@
+name: NetherPortalRestrict
+main: me.com_boy.minecraft.netherportalrestrict.NetherPortalRestrict
+version: 1.0
+website: com-BOY.weebly.com
+authors:
+  - com. BOY
+permissions:
+ NetherPortalRestrict.useportal:
+  description: Only players with this permission can use nether portals.
+  default: op
